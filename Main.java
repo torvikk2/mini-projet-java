@@ -32,7 +32,6 @@ public class Main {
 
     System.out.println(new String(b));
     System.out.println("Dufos v.1.0 - Demo version - A toSoftware's game");
-    System.out.println("By Victor Frison & Manoah Beaudoin");
 
     Grid g;
     if (Utility.choiceYesNo("do you want to customize the game settings ? y: yes | n: no") == 'n') {
